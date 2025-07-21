@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/github/followers/viniplugner?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
+<p align="center">
+  <img src="assets/Trex-game.gif" alt="Game" />
+</p>
+
 ---
 
 ## 🧰 Tech Stack
