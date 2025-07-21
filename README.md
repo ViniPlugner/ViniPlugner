@@ -34,11 +34,14 @@
 ### <p align="center">🗃️ Databases</p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/MariaDB-%23003545.svg?style=flat&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
 </p>
+
 
 ### <p align="center">🛠️ Frameworks & Tools</p>
 
@@ -78,7 +81,7 @@ If you want to talk about projects, tech, or just hang out and chat about dev st
 
 <p align="center">
   <a href="https://discordapp.com/users/309404856110678016" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-1/309404856110678016.png" alt="Discord Presence">
+    <img src="https://lanyard.cnrad.dev/api/309404856110678016" alt="Discord Presence">
   </a>
 </p>
 
