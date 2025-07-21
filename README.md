@@ -45,6 +45,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradle-%2302303A.svg?style=flat&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/HikariCP-%23007ec6.svg?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lombok-%23A61F23.svg?style=flat&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23000000.svg?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" />
 </p>
 
