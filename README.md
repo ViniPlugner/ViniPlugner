@@ -24,35 +24,35 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
 </p>
 
 ### <p align="center">🗃️ Databases</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MariaDB-%23003545.svg?style=flat&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-%23003545.svg?style=flat&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white" />
 </p>
 
 
 ### <p align="center">🛠️ Frameworks & Tools</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradle-%2302303A.svg?style=flat&logo=gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/HikariCP-%23007ec6.svg?style=flat&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Lombok-%23A61F23.svg?style=flat&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/HikariCP-%23007ec6.svg?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-%23000000.svg?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" />
 </p>
 
 ### <p align="center">🖥️ IDEs / Editors</p>
@@ -77,7 +77,7 @@ Here's a summary of what I've been up to on GitHub:
 
 ## 📬 Let’s chat!
 
-If you want to talk about projects, tech, or just hang out and chat about dev stuff — feel free to reach out on Discord! 😄
+If you want to talk about projects, tech, or just hang out and chat about dev stuff, feel free to reach out on Discord! 😄
 
 <p align="center">
   <a href="https://discordapp.com/users/309404856110678016" target="_blank">
