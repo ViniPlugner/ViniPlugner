@@ -1,4 +1,9 @@
-<h1 align="center">Hi there! I'm Vinícius 👋</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Vin%C3%ADcius+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%93%9A;Security+%26+Automation+Enthusiast+%F0%9F%92%A1" 
+         alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   A passionate developer who loves creative projects, clean code. 
