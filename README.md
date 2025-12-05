@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/MariaDB-%23003545.svg?style=flat&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white" />
 </p>
 
@@ -54,10 +55,11 @@
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradle-%2302303A.svg?style=flat&logo=gradle&logoColor=white" />
   <img src="https://img.shields.io/badge/Lombok-%23A61F23.svg?style=flat&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/HikariCP-%23007ec6.svg?style=flat&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=flat&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-%23000000.svg?style=flat&logo=figma&logoColor=white" />
